@@ -11,8 +11,8 @@
 
 ### 🌟 About Me
 I'm a **Software Engineering student from Sri Lanka** who loves blending creativity and data!  
-My passion lies in **UI/UX design** — crafting smooth, intuitive interfaces — and **Data Analysis**, where I turn raw data into meaningful insights.  
-I enjoy combining **design, development, and analytics** to build user-centered, intelligent, and reliable software solutions.
+My passion lies in **UI/UX design**  crafting smooth, intuitive interfaces and **Data Analysis**, where I turn raw data into meaningful insights.  
+I enjoy combining **design, development, and analytics** to build user centered, intelligent, and reliable software solutions.
 
 
 
@@ -22,7 +22,7 @@ I enjoy combining **design, development, and analytics** to build user-centered,
 - Java  
 - Python  
 - React  
-- Node.js  
+ 
 
 
 
