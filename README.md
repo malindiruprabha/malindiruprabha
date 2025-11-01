@@ -86,18 +86,16 @@ I enjoy combining **design, development, and analytics** to build user-centered,
 I find joy in **designing delightful interfaces** and **uncovering stories hidden in data** — creativity meets analytics! 🎨📊  
 
 
-<!-- ✨ Animated Footer with Data & UI/UX Animation -->
 <p align="center">
-  <img src="https://github.com/malindiruprabha/malindiruprabha/blob/main/assets/data-animation.gif" alt="Animated Data Footer" width="80%">
-  <br>
-  <strong style="font-size:20px; color:#ffffff;">Helping Turn Data into Insights 📊✨</strong>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
-
-
-
-
-
-
-
 ✨ _Thanks for visiting my profile — always learning, designing, and analyzing with purpose!_ ✨
+
+
+
+
+
+
+
+
 
