@@ -1,12 +1,22 @@
-# Hi there, I'm Malindi Ruprabha 👋  
+<!-- Profile Header Animation -->
+<h1 align="center">
+  Hey there, I'm <span style="color:#ff69b4;">Malindi Ruprabha</span> 👋
+</h1>
 
-I'm a **Software Engineering student from Sri Lanka** who loves blending creativity and data!  
-My passion lies in **UI/UX design** — crafting smooth, intuitive interfaces — and **Data Analysis**, where I transform raw data into meaningful insights.  
-I enjoy connecting design, development, and data to build user-centered, intelligent, and reliable software solutions.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+from+Sri+Lanka;UI%2FUX+Designer+%F0%9F%8E%A8;Data+Analysis+Enthusiast+%F0%9F%93%8A;Lifelong+Learner+%F0%9F%8C%9F" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🌱 I’m currently learning
+### 🌟 About Me
+I'm a **Software Engineering student from Sri Lanka** who loves blending creativity and data!  
+My passion lies in **UI/UX design** — crafting smooth, intuitive interfaces — and **Data Analysis**, where I turn raw data into meaningful insights.  
+I enjoy combining **design, development, and analytics** to build user-centered, intelligent, and reliable software solutions.
+
+---
+
+### 🌱 Currently Learning
 - UI/UX Design  
 - Data Analysis  
 - Java  
@@ -16,10 +26,10 @@ I enjoy connecting design, development, and data to build user-centered, intelli
 
 ---
 
-### 💬 Ask me about
+### 💬 Ask Me About
 - UI/UX Design  
 - Data Visualization  
-- Data Analysis with Python / Power BI / Excel  
+- Data Analysis (Power BI, Excel, Python)  
 - Frontend Development  
 - Java, Python, R, SQL  
 
@@ -39,38 +49,48 @@ I enjoy connecting design, development, and data to build user-centered, intelli
 ---
 
 ### 🏆 GitHub Trophies
-![Trophies](https://github-profile-trophy.vercel.app/?username=malindiruprabha&theme=onedark)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=malindiruprabha&theme=onedark&no-bg=true&no-frame=true&row=1&column=7" />
+</p>
 
 ---
 
 ### 📊 GitHub Stats
-![Malindi's GitHub stats](https://github-readme-stats.vercel.app/api?username=malindiruprabha&show_icons=true&theme=radical)
-
----
-
-### 💬 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malindiruprabha&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malindiruprabha&show_icons=true&theme=radical" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malindiruprabha&layout=compact&theme=tokyonight" height="165" />
+</p>
 
 ---
 
 ### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=malindiruprabha&theme=highcontrast&hide_border=true)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=malindiruprabha&theme=highcontrast&hide_border=true" />
+</p>
 
 ---
 
 ### 🔝 Top Contributed Repos
-![Top Repos](https://github-contributor-stats.vercel.app/api?username=malindiruprabha&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=malindiruprabha&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
 
 ---
 
-### 📫 How to reach me
+### 📫 How to Reach Me
 📧 Email: [ruumalii420@gmail.com](mailto:ruumalii420@gmail.com)  
-💼 LinkedIn: [Malindi Ruprabha](https://www.linkedin.com/in/malindi-ruprabha-4604b8298/)  
+💼 LinkedIn: [Malindi Ruprabha](https://www.linkedin.com/in/malindi-ruprabha-4604b8298/)
 
 ---
 
-### ⚡ Fun fact
+### ⚡ Fun Fact
 I find joy in **designing delightful interfaces** and **uncovering stories hidden in data** — creativity meets analytics! 🎨📊  
+
+---
+
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
