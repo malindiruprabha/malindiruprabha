@@ -85,18 +85,10 @@ I enjoy combining **design, development, and analytics** to build user-centered,
 ### ⚡ Fun Fact
 I find joy in **designing delightful interfaces** and **uncovering stories hidden in data** — creativity meets analytics! 🎨📊  
 
-<!-- 🌈 Gradient Divider -->
+<!-- ✨ Animated Footer -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:9370db&height=120&section=footer&text=Thanks+for+Visiting!+🌸&fontSize=24&fontColor=ffffff" alt="footer animation"/>
 </p>
-
-<!-- 🎨 UI/UX Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Trungdq88/Trungdq88/main/images/animation_500_kxa883sd.gif" alt="UI/UX animation" width="80%" />
-</p>
-
-<!-- ✨ Tagline -->
-<h3 align="center">Design • Develop • Analyze • Repeat 💫</h3>
 
 
 
