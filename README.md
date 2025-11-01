@@ -80,7 +80,7 @@ I enjoy combining **design, development, and analytics** to build user-centered,
 📧 Email: [ruumalii420@gmail.com](mailto:ruumalii420@gmail.com)  
 💼 LinkedIn: [Malindi Ruprabha](https://www.linkedin.com/in/malindi-ruprabha-4604b8298/)
 
----
+
 
 ### ⚡ Fun Fact
 I find joy in **designing delightful interfaces** and **uncovering stories hidden in data** — creativity meets analytics! 🎨📊  
