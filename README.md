@@ -88,8 +88,9 @@ I find joy in **designing delightful interfaces** and **uncovering stories hidde
 
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 </p>
+
 
 
 
