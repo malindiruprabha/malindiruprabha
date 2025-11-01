@@ -7,14 +7,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Software+Engineering+Student+from+Sri+Lanka;UI%2FUX+Designer+%F0%9F%8E%A8;Data+Analysis+Enthusiast+%F0%9F%93%8A;Lifelong+Learner+%F0%9F%8C%9F" alt="Typing SVG" />
 </p>
 
----
+
 
 ### 🌟 About Me
 I'm a **Software Engineering student from Sri Lanka** who loves blending creativity and data!  
 My passion lies in **UI/UX design** — crafting smooth, intuitive interfaces — and **Data Analysis**, where I turn raw data into meaningful insights.  
 I enjoy combining **design, development, and analytics** to build user-centered, intelligent, and reliable software solutions.
 
----
+
 
 ### 🌱 Currently Learning
 - UI/UX Design  
@@ -24,7 +24,7 @@ I enjoy combining **design, development, and analytics** to build user-centered,
 - React  
 - Node.js  
 
----
+
 
 ### 💬 Ask Me About
 - UI/UX Design  
@@ -33,7 +33,7 @@ I enjoy combining **design, development, and analytics** to build user-centered,
 - Frontend Development  
 - Java, Python, R, SQL  
 
----
+
 
 ### 🖥️ Languages & Tools
 <div align="center">
@@ -46,14 +46,14 @@ I enjoy combining **design, development, and analytics** to build user-centered,
   <img src="https://img.shields.io/badge/Kamathi-008080?style=for-the-badge" />
 </div>
 
----
+
 
 ### 🏆 GitHub Trophies
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=malindiruprabha&theme=onedark&no-bg=true&no-frame=true&row=1&column=7" />
 </p>
 
----
+
 
 ### 📊 GitHub Stats
 <p align="center">
@@ -61,21 +61,20 @@ I enjoy combining **design, development, and analytics** to build user-centered,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malindiruprabha&layout=compact&theme=tokyonight" height="165" />
 </p>
 
----
+
 
 ### 🔥 GitHub Streak
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=malindiruprabha&theme=highcontrast&hide_border=true" />
 </p>
 
----
 
 ### 🔝 Top Contributed Repos
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=malindiruprabha&limit=5&theme=dark&combine_all_yearly_contributions=true" />
 </p>
 
----
+
 
 ### 📫 How to Reach Me
 📧 Email: [ruumalii420@gmail.com](mailto:ruumalii420@gmail.com)  
@@ -86,13 +85,13 @@ I enjoy combining **design, development, and analytics** to build user-centered,
 ### ⚡ Fun Fact
 I find joy in **designing delightful interfaces** and **uncovering stories hidden in data** — creativity meets analytics! 🎨📊  
 
----
+
 
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
----
+
 
 ✨ _Thanks for visiting my profile — always learning, designing, and analyzing with purpose!_ ✨
 
