@@ -85,10 +85,10 @@ I enjoy combining **design, development, and analytics** to build user-centered,
 ### ⚡ Fun Fact
 I find joy in **designing delightful interfaces** and **uncovering stories hidden in data** — creativity meets analytics! 🎨📊  
 
-
 <p align="center">
   <img src="https://i.pinimg.com/originals/29/0d/d7/290dd77e6b47fef0a4a50b7fa012dfd1.gif" alt="coding animation" width="80%"/>
 </p>
+
 
 
 
