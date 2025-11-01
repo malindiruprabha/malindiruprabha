@@ -85,10 +85,13 @@ I enjoy combining **design, development, and analytics** to build user-centered,
 ### ⚡ Fun Fact
 I find joy in **designing delightful interfaces** and **uncovering stories hidden in data** — creativity meets analytics! 🎨📊  
 
-<!-- ✨ Animated Footer -->
+<!-- ✨ Animated Footer with Data & UI/UX Animation -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff69b4,100:9370db&height=120&section=footer&text=Thanks+for+Visiting!+🌸&fontSize=24&fontColor=ffffff" alt="footer animation"/>
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" alt="Animated Data Analysis Footer" width="80%">
+  <br>
+  <strong style="font-size:20px; color:#ffffff;">Helping Turn Data into Insights 📊✨</strong>
 </p>
+
 
 
 
